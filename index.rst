@@ -6,6 +6,8 @@
 Welcome to Read The Foo's documentation!
 ========================================
 
+Hello world. Can you see me?
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
