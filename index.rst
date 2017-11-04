@@ -7,6 +7,7 @@ Welcome to Read The Foo's documentation!
 ========================================
 
 *WHAT THE FOO? PT.4*
+hey read the docs! you alive?
 
 .. toctree::
    :maxdepth: 2
