@@ -83,7 +83,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-RTD_NEW_THEME = True
+html_theme = 'sphinx_rtd_theme'
 #html_theme = 'alabaster'
 #html_theme = 'default'
 #on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
