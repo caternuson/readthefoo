@@ -6,7 +6,7 @@
 Welcome to Read The Foo's documentation!
 ========================================
 
-*WHAT THE FOO?*
+*WHAT THE FOO? PT.2*
 
 .. toctree::
    :maxdepth: 2
