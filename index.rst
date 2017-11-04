@@ -7,10 +7,7 @@ Welcome to Read The Foo's documentation!
 ========================================
 
 *WHAT THE FOO?*
-hey read the docs! you alive?
-did the theme change?
-HELLO?!?!?! WHY YOU NO WORK?!?!
-HELLO?!?!?! WHY YOU NO WORK?!?!
+is the webhook really working?
 
 .. toctree::
    :maxdepth: 2
