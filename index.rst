@@ -6,9 +6,10 @@
 Welcome to Read The Foo's documentation!
 ========================================
 
-*WHAT THE FOO? PT.4*
+*WHAT THE FOO?*
 hey read the docs! you alive?
 did the theme change?
+HELLO?!?!?! WHY YOU NO WORK?!?!
 
 .. toctree::
    :maxdepth: 2
