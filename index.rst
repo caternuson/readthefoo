@@ -6,14 +6,20 @@
 Welcome to Read The Foo's documentation!
 ========================================
 
-*WHAT THE FOO?*
-is the webhook really working?
+What the foo? I dunno. This is just some
+jibber jabber to play with while learning:
+
+* `rst`_
+* `sphinx`_
+* `readthedocs`_
+
+.. _rst: http://docutils.sourceforge.net/rst.html
+.. _sphinx: http://www.sphinx-doc.org/
+.. _readthedocs: https://readthedocs.org/
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
 
 Indices and tables
 ==================
