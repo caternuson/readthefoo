@@ -10,6 +10,7 @@ Welcome to Read The Foo's documentation!
 hey read the docs! you alive?
 did the theme change?
 HELLO?!?!?! WHY YOU NO WORK?!?!
+HELLO?!?!?! WHY YOU NO WORK?!?!
 
 .. toctree::
    :maxdepth: 2
