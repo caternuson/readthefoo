@@ -16,9 +16,9 @@ class Foo:
     def feed_pet(self, pet):
         '''Feed the provided pet.
 
-        :param Pet pet : an instance of Pet class
+        :param Pet pet: an instance of Pet class
 
-        :return : True if pet ate the food
+        :return: True if pet ate the food
         '''
         pet.feed()
         return True
