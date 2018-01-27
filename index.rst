@@ -17,9 +17,14 @@ jibber jabber to play with while learning:
 .. _sphinx: http://www.sphinx-doc.org/
 .. _readthedocs: https://readthedocs.org/
 
+
+API Reference
+=============
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   api
 
 Indices and tables
 ==================
